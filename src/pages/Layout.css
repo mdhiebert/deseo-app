@@ -1,0 +1,55 @@
+.app-header {
+    background-color: #15171c;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    min-height: 100px;
+}
+
+.header-logo {
+    max-width: 125px;
+    height: auto;
+    position: absolute;
+    left: 0px;
+    top: 12px;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    position: absolute;
+    left: 150px;
+    top: 5px;
+    height: 10%;
+}
+
+.header-link {
+    /* font-size: 20pt; */
+}
+
+/* unvisited link */
+.header-link:link {
+    color: #ffb200;
+}
+
+/* visited link */
+.header-link:visited {
+    color: #ffb200;
+}
+
+/* mouse over link */
+.header-link:hover {
+    color: #2a52be;
+}
+
+/* selected link */
+.header-link:active {
+    color: #2a52be;
+}
+
+.profile {
+    position: absolute;
+    right: 25px;
+    top: 25px;
+}

@@ -1,0 +1,175 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "activity": "Sushi Date",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-10-29",
+            "notes": "Columbus, Halloweekend :D",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "activity": "DIY Sushi Date",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "activity": "DIY Pizza Date",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-10-09",
+            "notes": "In Boston",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "activity": "Charcuterie Board",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "activity": "Fondue",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "activity": "4Loko",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-08-13",
+            "notes": "Atlanta post-RASP",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "activity": "Get Semantle in Under 50",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-06-24",
+            "notes": "x2 boom. moment @ cbus",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "activity": "Malera, Italy",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "activity": "Music Festival",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "activity": "Fran reenacts Rocky in Philadelphia",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "activity": "Savannah Trip",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-08-19",
+            "notes": "frans bday trip",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "activity": "Trip to Airport Longterm Parking Terminal",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "activity": "Get Semantle in Under 30",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "activity": "Bike Ride",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "activity": "Tio Lucho's",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-08-13",
+            "notes": "SO GOOD",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "activity": "Celebrate Birthday",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-07-21",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "activity": "Fran Meets Ian",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-09-23",
+            "notes": "but you weren't there :(",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "activity": "Visit NY",
+            "dateAdded": "2022-06-20",
+            "isComplete": false,
+            "dateCompleted": "",
+            "notes": "",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "activity": "Visit Lexington",
+            "dateAdded": "2022-06-20",
+            "isComplete": true,
+            "dateCompleted": "2022-09-02",
+            "notes": "RIO AND MICHAEL <3",
+            "image": ""
+        }
+    ]
+}

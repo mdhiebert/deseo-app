@@ -1,0 +1,348 @@
+{
+    "events": [
+        {
+            "type": "description",
+            "content": "We have come a long way from when we first met. We've experienced a lot together-all the way from being classmates and friends in a random MIT Course VI class to now being half of a year into an amazing relationship. I made deseo to codify and document all of the best parts of our relationship: both in what we have already done, and what we still have left to do. I want it to be our bucket list, our photo album, our travel planner, and our story."
+        },
+        {
+            "type": "description",
+            "content": "This site will grow with our relationship, and it is my hope that we can always return to this ever-evolving catalogue of events, moments, and accomplishments in our lives to reflect and appreciate all that we have done together."
+        },
+        {
+            "type": "description",
+            "content": "It all started in Boston..."
+        },
+        {
+            "title": "A Night Out in Boston",
+            "type": "event",
+            "description": "Peruvian beers courtesy of Francesca!",
+            "dateString": "May 21, 2021",
+            "centerIcon": "",
+            "imageUrl": "http://localhost:8000/first-hangout.png"
+        },
+        {
+            "title": "Zoe's \"Date\" and Astral Reading",
+            "type": "event",
+            "description": "",
+            "dateString": "Jun 1, 2021",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "type": "description",
+            "content": "It was around now that we both started to sense the micro-vibrations."
+        },
+        {
+            "title": "A *Suspicious* Amount of Texting",
+            "type": "event",
+            "description": "What could it mean?",
+            "dateString": "Summer 2021",
+            "centerIcon": "textIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "Our First Weekend in Atlanta",
+            "type": "event",
+            "description": "\"Is she your girlfriend?\"",
+            "dateString": "Aug 6-8, 2021",
+            "centerIcon": "cityIcon",
+            "imageUrl": "http://localhost:8000/atl-1.png"
+        },
+        {
+            "title": "Michael Gets Recycled",
+            "type": "event",
+            "description": "",
+            "dateString": "Sep 17, 2021",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Fran's Quarantine in Beijing",
+            "type": "event",
+            "description": "Lots of crossword FaceTimes",
+            "dateString": "Sep 19 - Oct 3, 2021",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Michael goes to Ranger School",
+            "type": "event",
+            "description": "0/10 would not recommend. Loved your letters, though. :)",
+            "dateString": "Feb 20 - Apr 22, 2022",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Second Atlanta Trip",
+            "type": "event",
+            "description": "Tacos, Six Flags, Piedmont Park",
+            "dateString": "May 20-22, 2022",
+            "centerIcon": "cityIcon",
+            "imageUrl": "http://localhost:8000/atl-2.png"
+        },
+        {
+            "title": "MIT Re-Graduation Weekend",
+            "type": "event",
+            "description": "Senior Ball Vibes",
+            "dateString": "May 26-30, 2022",
+            "centerIcon": "partyIcon",
+            "imageUrl": "http://localhost:8000/bos-1.png"
+        },
+        {
+            "title": "We Start Dating",
+            "type": "event",
+            "description": "",
+            "dateString": "Jun 2, 2022",
+            "centerIcon": "loveIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "Fran's First Visit to Columbus",
+            "type": "event",
+            "description": "First of many!",
+            "dateString": "Jun 4 - 9, 2022",
+            "centerIcon": "",
+            "imageUrl": "http://localhost:8000/ip-1.png"
+        },
+        {
+            "title": "Fran's Trip to Mexico 2022",
+            "type": "trip",
+            "dateStart": "2022-06-14",
+            "dateEnd": "2022-07-06",
+            "description": "A Healing Adventure",
+            "flippedLayout": false,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "width": 300,
+                "height": 300,
+                "projectionConfig": {
+                    "rotate": [98, -22, 0],
+                    "scale": 600
+                }
+            },
+            "countriesVisited": [
+                "Mexico"
+              ],
+            "destinations": [
+                {
+                    "name": "Lexington",
+                    "description": "",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 38.0406,
+                    "lon": -84.5037,
+                    "showMarker": true,
+                    "dateStart": "2022-06-14",
+                    "dateEnd": "2022-06-14"
+                },
+                {
+                    "name": "Mexico City",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 19.4326,
+                    "lon": -99.1332,
+                    "showMarker": true,
+                    "dateStart": "2022-06-14",
+                    "dateEnd": "2022-06-16"
+                },
+                {
+                    "name": "San Miguel de Allende",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 20.9144,
+                    "lon": -100.7452,
+                    "showMarker": true,
+                    "dateStart": "2022-06-16",
+                    "dateEnd": "2022-06-18"
+                },
+                {
+                    "name": "Mexico City",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 19.4326,
+                    "lon": -99.1332,
+                    "showMarker": false,
+                    "dateStart": "2022-06-18",
+                    "dateEnd": "2022-06-22"
+                },
+                {
+                    "name": "Puerto Escondido",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 15.8720,
+                    "lon": -97.0767,
+                    "showMarker": true,
+                    "offset": 7,
+                    "dateStart": "2022-06-22",
+                    "dateEnd": "2022-06-26"
+                },
+                {
+                    "name": "Merida",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 20.9674,
+                    "lon": -89.5926,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2022-06-26",
+                    "dateEnd": "2022-06-28"
+                },
+                {
+                    "name": "Valladolid",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 20.6896,
+                    "lon": -88.2022,
+                    "showMarker": true,
+                    "dateStart": "2022-06-28",
+                    "dateEnd": "2022-07-01"
+                },
+                {
+                    "name": "Merida",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 20.9674,
+                    "lon": -89.5926,
+                    "showMarker": false,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-02"
+                },
+                {
+                    "name": "Bacalar",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 18.6783,
+                    "lon": -88.3924,
+                    "showMarker": true,
+                    "offset": 7,
+                    "dateStart": "2022-07-02",
+                    "dateEnd": "2022-07-05"
+                },
+                {
+                    "name": "Lexington",
+                    "description": "",
+                    "country": "United States of America",
+                    "lat": 38.0406,
+                    "lon": -84.5037,
+                    "showMarker": true,
+                    "dateStart": "2022-07-06",
+                    "dateEnd": "2022-07-06"
+                }
+            ]
+        
+        },
+        {
+            "title": "Fran Graduates from Tsinghua University",
+            "type": "event",
+            "description": "Officially a Schwarzman Alumna! And Michael got to watch the ceremony!",
+            "dateString": "Jun 26 2022",
+            "centerIcon": "schoolIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "Margarita's and the F-Boy Island Drinking Game",
+            "type": "event",
+            "description": "Shoutout LA",
+            "dateString": "Jul 10 2022",
+            "centerIcon": "drinkIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "Michael's Birthday Dinner at Epic",
+            "type": "event",
+            "description": "Jordan Year Loading",
+            "dateString": "Jul 12 2022",
+            "centerIcon": "cakeIcon",
+            "imageUrl": "http://localhost:8000/waterfront.png"
+        },
+        {
+            "title": "Michael in RASP",
+            "type": "event",
+            "description": "Mucho Stress",
+            "dateString": "Jul 24 - Aug 12, 2022",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "High Museum of Art + Tio Lucho's",
+            "type": "event",
+            "description": "ATL pt. 3",
+            "dateString": "Aug 13 2022",
+            "centerIcon": "",
+            "imageUrl": "http://localhost:8000/high-museum.png"
+        },
+        {
+            "title": "Fran's Birthday Dinner at Trevioli's",
+            "type": "event",
+            "description": "The big 2-4",
+            "dateString": "Aug 17 2022",
+            "centerIcon": "cakeIcon",
+            "imageUrl": "http://localhost:8000/treviolis.png"
+        },
+        {
+            "title": "Collin's Quarter Brunch + Tybee Island",
+            "type": "event",
+            "description": "Our first trip to Savannah (hopefully not the last !)",
+            "dateString": "Aug 20 2022",
+            "centerIcon": "",
+            "imageUrl": "http://localhost:8000/savannah.png"
+        },
+        {
+            "title": "Michael Visits Lexington",
+            "type": "event",
+            "description": "Riooooooooooooo",
+            "dateString": "Sep 2 2022",
+            "centerIcon": "",
+            "imageUrl": "http://localhost:8000/rio.png"
+        },
+        {
+            "title": "Buffalo Trace + Wallace Station",
+            "type": "event",
+            "description": "We are not a bourbon couple",
+            "dateString": "Sep 4 2022",
+            "centerIcon": "drinkIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "Bonfire + Night Out in Columbus",
+            "type": "event",
+            "description": "We *are* a bourbon *cream* couple",
+            "dateString": "Sep 15 2022",
+            "centerIcon": "partyIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "MFA and a House Party at Fran's",
+            "type": "event",
+            "description": "Charades Queen",
+            "dateString": "Oct 7 2022",
+            "centerIcon": "partyIcon",
+            "imageUrl": ""
+        },
+        {
+            "title": "La Royale",
+            "type": "event",
+            "description": "Some say it is the Tio Lucho's of New England",
+            "dateString": "Oct 8 2022",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Four-Handed Illusions",
+            "type": "event",
+            "description": "We will never know how they did it",
+            "dateString": "Oct 9 2022",
+            "centerIcon": "magicIcon",
+            "imageUrl": "http://localhost:8000/magic.png"
+        },
+        {
+            "title": "Apple Pie Baking",
+            "type": "event",
+            "description": "And that Sushi and Trivia Date later that evening!",
+            "dateString": "Oct 29 2022",
+            "centerIcon": "",
+            "imageUrl": ""
+        }
+    ]
+}

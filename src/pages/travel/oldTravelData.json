@@ -1,0 +1,98 @@
+{
+    "trips": [
+        {
+            "title": "Mexico 2022",
+            "dateStart": "2022-06-14",
+            "dateEnd": "2022-07-06",
+            "description": "Fran's Healing Adventure",
+            "flippedLayout": false,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "width": 300,
+                "height": 300,
+                "projectionConfig": {
+                    "rotate": [98, -22, 0],
+                    "scale": 600
+                }
+            },
+            "countriesVisited": [
+                "Mexico"
+              ],
+            "destinations": [
+                {
+                    "name": "Lexington",
+                    "description": "Trip Start",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 38.0406,
+                    "lon": -84.5037,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Mexico City",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 19.4326,
+                    "lon": -99.1332,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "San Miguel de Allende",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 20.9144,
+                    "lon": -100.7452,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Mexico City",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 19.4326,
+                    "lon": -99.1332,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Puerto Escondido",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 15.8720,
+                    "lon": -97.0767,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Bacalar",
+                    "description": "",
+                    "country": "Mexico",
+                    "lat": 18.6783,
+                    "lon": -88.3924,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Lexington",
+                    "description": "Trip End",
+                    "country": "United States of America",
+                    "lat": 38.0406,
+                    "lon": -84.5037,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                }
+            ]
+        
+        }
+    ]
+}

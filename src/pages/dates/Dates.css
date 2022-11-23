@@ -1,0 +1,8 @@
+.date-layout {
+    display: flex;
+    /* gap: px; */
+}
+
+.date-list {
+    width: auto;
+}

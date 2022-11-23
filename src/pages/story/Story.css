@@ -1,0 +1,18 @@
+.event-image {
+    max-width: 100%;
+    align-self: center;
+}
+
+.event-content {
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-around; */
+}
+
+.event-description {
+    /* text-align: center; */
+}
+
+.event-title {
+    font-size: 24pt;
+}

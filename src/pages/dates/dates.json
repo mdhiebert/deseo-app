@@ -1,0 +1,129 @@
+{
+    "dates": [
+        {
+            "date": "2022-06-04",
+            "activity": "Stock Market",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-07-09",
+            "activity": "Margaritas and F-Boy Island Drinking Game",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-07-12",
+            "activity": "Michael's Birthday Dinner at Epic",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-08-13",
+            "activity": "High Museum of Art",
+            "location": "Atlanta, GA"
+        },
+        {
+            "date": "2022-08-13",
+            "activity": "Tio Lucho's and Tapas Night",
+            "location": "Atlanta, GA"
+        },
+        {
+            "date": "2022-08-17",
+            "activity": "Fran's Birthday Dinner at Trevioli's",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-08-20",
+            "activity": "Collin's Quarter Brunch",
+            "location": "Savannah, GA"
+        },
+        {
+            "date": "2022-08-20",
+            "activity": "Tybee Island",
+            "location": "Savannah, GA"
+        },
+        {
+            "date": "2022-08-20",
+            "activity": "Dinner Date Night",
+            "location": "Savannah, GA"
+        },
+        {
+            "date": "2022-08-23",
+            "activity": "Fountain City Journaling Date",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-09-02",
+            "activity": "Lexington Brewery",
+            "location": "Lexington, KY"
+        },
+        {
+            "date": "2022-09-03",
+            "activity": "Horse Farms",
+            "location": "Versailles, KY"
+        },
+        {
+            "date": "2022-09-04",
+            "activity": "Buffalo Trace Distillery",
+            "location": "Lexington, KY"
+        },
+        {
+            "date": "2022-09-04",
+            "activity": "Wallace Station",
+            "location": "Lexington, KY"
+        },
+        {
+            "date": "2022-09-15",
+            "activity": "Bonfire and Bourbon Cream",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-09-16",
+            "activity": "Agave, Nonic, and Up",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-10-07",
+            "activity": "MFA",
+            "location": "Boston, MA"
+        },
+        {
+            "date": "2022-10-08",
+            "activity": "La Royale and Felipes",
+            "location": "Boston, MA"
+        },
+        {
+            "date": "2022-10-09",
+            "activity": "Magic!",
+            "location": "Boston, MA"
+        },
+        {
+            "date": "2022-10-27",
+            "activity": "First Run Together!",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-10-28",
+            "activity": "Nonic",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-10-29",
+            "activity": "Farmer's Market and Coffee",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-10-29",
+            "activity": "Apple Pie",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-10-29",
+            "activity": "Sushi, Sake, and Trivia",
+            "location": "Columbus, GA"
+        },
+        {
+            "date": "2022-10-30",
+            "activity": "Fran's Barbershop",
+            "location": "Columbus, GA"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "trips": [
+        {
+            "title": "SEA 2023",
+            "dateStart": "2022-07-01",
+            "dateEnd": "2022-07-22",
+            "description": "Southeast Asia + First Trip!",
+            "flippedLayout": false,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "width": 400,
+                "height": 400,
+                "projectionConfig": {
+                    "rotate": [250, -10, 0],
+                    "scale": 600
+                }
+            },
+            "countriesVisited": [
+                "Thailand",
+                "Vietnam",
+                "Cambodia",
+                "Malaysia",
+                "Singapore"
+              ],
+            "destinations": [
+                {
+                    "name": "Atlanta",
+                    "header": "Travel Day",
+                    "description": "Maybe we can spend some time together in Georgia before we depart?",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 33.7491,
+                    "lon": -120.3902,
+                    "showMarker": true,
+                    "dateStart": "2022-06-30",
+                    "dateEnd": "2022-07-01"
+                },
+                {
+                    "name": "Hanoi",
+                    "header": "Two Days in Hanoi",
+                    "description": "Day 1: Hoan Kiem Lake, French Quarter, Old Quarter\nDay 2: Imperial Citadel, Ho Chi Minh Mausoleum, Presidential Palace, Temple of Literature, Shopping and Sky Lotte Observation Deck\nMaybe: Water Puppet Theater?",
+                    "country": "Vietnam",
+                    "lat": 21.0278,
+                    "lon": 105.8342,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-02"
+                },
+                {
+                    "name": "Ha Long Bay",
+                    "header": "Day Trip to Ha Long",
+                    "description": "A chill beach day before heading south.",
+                    "country": "Vietnam",
+                    "lat": 20.9101,
+                    "lon": 107.1839,
+                    "showMarker": false,
+                    "dateStart": "2022-07-03",
+                    "dateEnd": "2022-07-03"
+                },
+                {
+                    "name": "Da Nang",
+                    "header": "Hiking and Sights in Central Vietnam",
+                    "description": "Hike the Marble Mountains, Son Tra Mountain, see the Golden Bridge, the Dragon Bridge, and Lady Buddha.",
+                    "country": "Vietnam",
+                    "lat": 16.0545,
+                    "lon": 108.0717,
+                    "showMarker": true,
+                    "dateStart": "2022-07-04",
+                    "dateEnd": "2022-07-06"
+                },
+                {
+                    "name": "Hue",
+                    "header": "One Day in Hue",
+                    "description": "Spend a day soaking in the historic imperial city.",
+                    "country": "Vietnam",
+                    "lat": 16.4637,
+                    "lon": 107.5909,
+                    "showMarker": false,
+                    "dateStart": "2022-07-07",
+                    "dateEnd": "2022-07-07"
+                },
+                {
+                    "name": "Ho Chi Minh City",
+                    "header": "Street Food in Saigon",
+                    "description": "See the A O Show, a Water Puppet show, and the Opera House.\nExplore Nguyen Hue Street, Bui Vien Street, and the Ben Thanh Market.\nVisit the FITO Museum, Central Post Office, and the Bitexco Financial Tower.",
+                    "country": "Vietnam",
+                    "lat": 10.8231,
+                    "lon": 106.6297,
+                    "showMarker": true,
+                    "dateStart": "2022-07-08",
+                    "dateEnd": "2022-07-10"
+                },
+                {
+                    "name": "Angkor Wat",
+                    "header": "The Largest Temple in the World",
+                    "description": "A day trip to the religious site on the way to Bangkok.",
+                    "country": "Cambodia",
+                    "lat": 13.4125,
+                    "lon": 103.8670,
+                    "showMarker": true,
+                    "dateStart": "2022-07-11",
+                    "dateEnd": "2022-07-11"
+                },
+                {
+                    "name": "Bangkok",
+                    "header": "Three Days in the City of Angels",
+                    "description": "See the temples and palaces of the old city on Day 1\nSpend time in the ultra-modern districts of Silom and Sukhumvit on Day 2\nRound it out with a day at Chatuchak Weekend Market.",
+                    "country": "Thailand",
+                    "lat": 13.7563,
+                    "lon": 100.5018,
+                    "showMarker": true,
+                    "dateStart": "2022-07-12",
+                    "dateEnd": "2022-07-14"
+                },
+                {
+                    "name": "Phuket",
+                    "header": "Paradise",
+                    "description": "Relax on the beautiful beaches of western Thailand.",
+                    "country": "Thailand",
+                    "lat": 7.8804,
+                    "lon": 98.3923,
+                    "showMarker": true,
+                    "dateStart": "2022-07-15",
+                    "dateEnd": "2022-07-17"
+                },
+                {
+                    "name": "Kuala Lumpur",
+                    "header": "?? Two Days in Malaysia",
+                    "description": "Would need to extend or cut elsewhere to fit this in!",
+                    "country": "Malaysia",
+                    "lat": 3.1569,
+                    "lon": 101.7123,
+                    "showMarker": true,
+                    "dateStart": "???",
+                    "dateEnd": "???"
+                },
+                {
+                    "name": "Singapore",
+                    "header": "A Week in Singapore",
+                    "description": "Staying at the Ritz Carlton with all nights completely paid for ;)",
+                    "country": "Singapore",
+                    "lat": 1.290270,
+                    "lon": 103.851959,
+                    "showMarker": true,
+                    "dateStart": "2022-07-17",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Atlanta",
+                    "header": "Return Home",
+                    "description": "We'll take an overnight flight back to the US to arrive on Sunday, July 22.",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 33.7491,
+                    "lon": -120.3902,
+                    "showMarker": true,
+                    "dateStart": "2022-07-22",
+                    "dateEnd": "2022-07-22"
+                }
+            ]
+        
+        },
+        {
+            "title": "Christmas in Central Europe",
+            "dateStart": "2023-12-17",
+            "dateEnd": "2024-01-02",
+            "description": "Potential Holiday Trip?",
+            "flippedLayout": true,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "width": 200,
+                "height": 200,
+                "projectionConfig": {
+                    "rotate": [-12, -50, 0],
+                    "scale": 500
+                }
+            },
+            "countriesVisited": [
+                "Hungary",
+                "Slovakia",
+                "Czech Republic",
+                "Austria",
+                "Germany"
+              ],
+            "destinations": [
+                {
+                    "name": "Atlanta",
+                    "description": "Trip Start",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 33.7491,
+                    "lon": -120.3902,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Budapest",
+                    "description": "",
+                    "country": "Hungary",
+                    "lat": 47.4979,
+                    "lon": 19.0402,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Bratislava",
+                    "description": "Bratislava",
+                    "country": "Slovakia",
+                    "lat": 48.1486,
+                    "lon": 17.1077,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Vienna",
+                    "description": "",
+                    "country": "Austria",
+                    "lat": 48.2082,
+                    "lon": 16.3738,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Prague",
+                    "description": "",
+                    "country": "Czech Republic",
+                    "lat": 50.0755,
+                    "lon": 14.4378,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Nuremberg",
+                    "description": "",
+                    "country": "Germany",
+                    "lat": 49.4521,
+                    "lon": 11.0767,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Munich",
+                    "description": "",
+                    "country": "Germany",
+                    "lat": 48.1351,
+                    "lon": 11.5820,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Atlanta",
+                    "description": "Trip End",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 33.7491,
+                    "lon": -120.3902,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                }
+            ]
+        
+        },
+        {
+            "title": "South America 2K??",
+            "dateStart": "???",
+            "dateEnd": "???",
+            "description": "So you can be a tourist in your own country!",
+            "flippedLayout": false,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "width": 200,
+                "height": 200,
+                "projectionConfig": {
+                    "rotate": [50, 20, 0],
+                    "center": [-10, 0],
+                    "scale": 150
+                }
+            },
+            "countriesVisited": [
+                "Chile",
+                "Argentina",
+                "Peru"
+              ],
+            "destinations": [
+                {
+                    "name": "Atlanta",
+                    "description": "Trip Start",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 33.7491,
+                    "lon": -120.3902,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Buenos Aires",
+                    "description": "",
+                    "country": "Argentina",
+                    "lat": -34.6037,
+                    "lon": -58.3816,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-01"
+                },
+                {
+                    "name": "Mendoza",
+                    "description": "",
+                    "country": "Argentina",
+                    "lat": -32.8895,
+                    "lon": -68.8458,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Ushuaia",
+                    "description": "",
+                    "country": "Argentina",
+                    "lat": -54.8019,
+                    "lon": -68.3030,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Punta Arenas",
+                    "description": "",
+                    "country": "Argentina",
+                    "lat": -53.1634,
+                    "lon": -70.9078,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Santiago",
+                    "description": "",
+                    "country": "Chile",
+                    "lat": -33.4489,
+                    "lon": -70.6693,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "San Pedro de Atacama",
+                    "description": "",
+                    "country": "Chile",
+                    "lat": -22.9087,
+                    "lon": -68.1997,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Arequipa",
+                    "description": "",
+                    "country": "Peru",
+                    "lat": -16.4090,
+                    "lon": -71.5375,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Cusco",
+                    "description": "",
+                    "country": "Peru",
+                    "lat": -13.5320,
+                    "lon": -71.9675,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Iquitos",
+                    "description": "Amazon Rainforest",
+                    "country": "Peru",
+                    "lat": -3.7437,
+                    "lon": -73.2516,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Lima",
+                    "description": "",
+                    "country": "Peru",
+                    "lat": -12.0464,
+                    "lon": -77.0428,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                },
+                {
+                    "name": "Atlanta",
+                    "description": "Trip End",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 33.7491,
+                    "lon": -120.3902,
+                    "showMarker": true,
+                    "dateStart": "2022-07-01",
+                    "dateEnd": "2022-07-22"
+                }
+            ]
+        
+        }
+    ]
+}
