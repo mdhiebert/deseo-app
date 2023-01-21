@@ -343,6 +343,46 @@
             "dateString": "Oct 29 2022",
             "centerIcon": "",
             "imageUrl": ""
+        },
+        {
+            "type": "description",
+            "content": "And looking ahead..."
+        },
+        {
+            "title": "Our First Trip Abroad",
+            "type": "event",
+            "description": "Certainly not our last ;)",
+            "dateString": "Summer 2023"
+        },
+        {
+            "title": "A Month with Rio in Georgia",
+            "type": "event",
+            "description": "Maybe??????",
+            "dateString": "Fall 2023?"
+        },
+        {
+            "title": "Michael Exits the Army",
+            "type": "event",
+            "description": "Hallelujah",
+            "dateString": "Fall 2024 / Summer 2025"
+        },
+        {
+            "title": "Grad School Together?",
+            "type": "event",
+            "description": "",
+            "dateString": "???"
+        },
+        {
+            "title": "Moving to the Same City",
+            "type": "event",
+            "description": "NYC? Boston? London? DC?",
+            "dateString": "???"
+        },
+        {
+            "title": "Life Together...?",
+            "type": "event",
+            "description": "",
+            "dateString": "???"
         }
     ]
 }
