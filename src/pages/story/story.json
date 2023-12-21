@@ -113,7 +113,7 @@
             "flippedLayout": false,
             "tripType": "B",
             "geographyData": {
-                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
                 "width": 300,
                 "height": 300,
                 "projectionConfig": {
@@ -345,26 +345,60 @@
             "imageUrl": ""
         },
         {
-            "type": "description",
-            "content": "And looking ahead..."
+            "title": "Christmas Cookies!",
+            "type": "event",
+            "description": "With the mistletoe cookie cutter ;)",
+            "dateString": "Dec 11 2023",
+            "centerIcon": "",
+            "imageUrl": ""
         },
         {
-            "title": "Our First Trip Abroad",
+            "title": "Christmas Dinner at Trevis",
             "type": "event",
-            "description": "Certainly not our last ;)",
-            "dateString": "Summer 2023"
+            "description": "Our first Festivus for the Rest of Us",
+            "dateString": "Dec 13 2023",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Phantom of the Opera",
+            "type": "event",
+            "description": "And eight days together in Boston and NYC before Michael deploys...",
+            "dateString": "Mar 3 2023",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Michael Deploys",
+            "type": "event",
+            "description": "LONG long distance moment",
+            "dateString": "Mar 26 2023",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "title": "Michael Returns",
+            "type": "event",
+            "description": "Shoutout League Finals",
+            "dateString": "Jun 10 2023",
+            "centerIcon": "",
+            "imageUrl": ""
+        },
+        {
+            "type": "description",
+            "content": "And looking ahead..."
         },
         {
             "title": "A Month with Rio in Georgia",
             "type": "event",
             "description": "Maybe??????",
-            "dateString": "Fall 2023?"
+            "dateString": "Jan 2024?"
         },
         {
             "title": "Michael Exits the Army",
             "type": "event",
             "description": "Hallelujah",
-            "dateString": "Fall 2024 / Summer 2025"
+            "dateString": "Summer 2025"
         },
         {
             "title": "Grad School Together?",

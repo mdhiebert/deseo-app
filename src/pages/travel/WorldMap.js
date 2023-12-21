@@ -11,7 +11,7 @@ import { PatternLines } from "@vx/pattern";
 
 var _ = require('lodash');
 
-const geoUrl = "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json";
+const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 
 const michaelVisited = [
   "United States",
@@ -36,7 +36,10 @@ const michaelVisited = [
   "Russia",
   "Turkey",
   "Morocco",
-  "South Korea"
+  "South Korea",
+  "Jordan",
+  "Qatar",
+  "Portugal"
 ]
 
 const franVisited = [

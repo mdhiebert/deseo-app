@@ -8,7 +8,7 @@
             "flippedLayout": false,
             "tripType": "B",
             "geographyData": {
-                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
                 "width": 300,
                 "height": 300,
                 "projectionConfig": {
@@ -93,6 +93,273 @@
                 }
             ]
         
+        },
+        {
+            "title": "Italy and Portugal",
+            "dateStart": "2023-07-30",
+            "dateEnd": "2023-08-13",
+            "description": "Birthday Celebrations and First Family Trip",
+            "flippedLayout": true,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
+                "width": 400,
+                "height": 400,
+                "projectionConfig": {
+                    "rotate": [-4, -40, 0],
+                    "scale": 1000
+                }
+            },
+            "countriesVisited": [
+                "Italy",
+                "Portugal"
+              ],
+            "destinations": [
+                {
+                    "name": "Boston",
+                    "header": "Travel Day",
+                    "description": "Transatlantic flight from BOS to FCO. We met up with Michael's family and spent a long layover with Patrick and his two friends. Landed in PMO and drove to Santa Flavia.",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 42.3656,
+                    "lon": -71.0098,
+                    "showMarker": true,
+                    "dateStart": "2022-07-30",
+                    "dateEnd": "2022-07-31"
+                },
+                {
+                    "name": "Rome FCO",
+                    "isIntermediateStop": true,
+                    "lat": 41.8034,
+                    "lon": 12.2519,
+                    "showMarker": false
+                },
+                {
+                    "name": "Palermo",
+                    "isIntermediateStop": true,
+                    "lat": 38.1157,
+                    "lon": 13.3615,
+                    "showMarker": false
+                },
+                {
+                    "name": "Santa Flavia",
+                    "header": "Sicily Exploration",
+                    "description": "We arrived at our Vrbo on the 31st: a beautiful house on the northern coast of Sicily, in a small town called Santa Flavia. It was right on the water with a pool and a dock. The next morning, a driver named Marco picked us up at 8:00 AM and drove us straight south to the ruins of Agrigento, an ancient Greek town. We spent the morning there and ate lunch in a small nearby town on the way home.\nOn August 2nd, we drove to Palermo and had a crazy time finding parking (\"Si Problem\"). We then took a four hour boat ride along the coast of Palermo - stopping twice to jump out and swim in the ocean and through caves. Afterwards, we grabbed lunch in Palermo and explored the city for the rest of the day. We spent the next day driving to Taormina, stopping at an ancient Roman villa along the way (to discuss interior design choices - *courtyards*). Taormina was beautiful.\nOur final day was spent at home, swimming and soaking up the sun.",
+                    "country": "Italy",
+                    "abbreviatedCountry": "Italy",
+                    "lat": 38.0817,
+                    "lon": 13.5253,
+                    "showMarker": true,
+                    "dateStart": "2022-07-31",
+                    "dateEnd": "2022-08-05"
+                },
+                {
+                    "name": "Santa Flavia",
+                    "isIntermediateStop": true,
+                    "lat": 38.0817,
+                    "lon": 13.5253,
+                    "showMarker": false
+                },
+                {
+                    "name": "Agrigento",
+                    "header": "The Ruins of Agrigento",
+                    "description": "A driver named Marco picked us up at 8:00 AM and drove us straight south to the ruins of Agrigento, an ancient Greek town. We spent the morning there and ate lunch in a small nearby town on the way home.",
+                    "country": "Italy",
+                    "abbreviatedCountry": "Italy",
+                    "lat": 37.316666,
+                    "lon": 13.583333,
+                    "isIntermediateStop": true,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2022-08-01",
+                    "dateEnd": "2022-08-01"
+                },
+                {
+                    "name": "Santa Flavia",
+                    "isIntermediateStop": true,
+                    "lat": 38.0817,
+                    "lon": 13.5253,
+                    "showMarker": false
+                },
+                {
+                    "name": "Palermo",
+                    "header": "Yacht Ride + Palermo Exploration",
+                    "description": "We drove to Palermo and had a crazy time finding parking (\"Si Problem\"). We then took a four hour boat ride along the coast of Palermo - stopping twice to jump out and swim in the ocean and through caves. Afterwards, we grabbed lunch in Palermo and explored the city for the rest of the day.",
+                    "country": "Italy",
+                    "abbreviatedCountry": "Italy",
+                    "lat": 38.1157,
+                    "lon": 13.3615,
+                    "isIntermediateStop": true,
+                    "showMarker": false,
+                    "dateStart": "2022-08-02",
+                    "dateEnd": "2022-08-02"
+                },
+                {
+                    "name": "Santa Flavia",
+                    "isIntermediateStop": true,
+                    "lat": 38.0817,
+                    "lon": 13.5253,
+                    "showMarker": false
+                },
+                {
+                    "name": "Taormina",
+                    "isIntermediateStop": true,
+                    "lat": 37.8516,
+                    "lon": 15.2853,
+                    "showMarker": true,
+                    "offset": 6
+                },
+                {
+                    "name": "Santa Flavia",
+                    "isIntermediateStop": true,
+                    "lat": 38.0817,
+                    "lon": 13.5253,
+                    "showMarker": false
+                },
+                {
+                    "name": "Palermo",
+                    "isIntermediateStop": true,
+                    "lat": 38.1157,
+                    "lon": 13.3615,
+                    "showMarker": false
+                },
+                {
+                    "name": "Naples",
+                    "isIntermediateStop": true,
+                    "lat": 40.8518,
+                    "lon": 14.2681,
+                    "showMarker": false
+                },
+                {
+                    "name": "Capri",
+                    "header": "One Night in Capri",
+                    "description": "We took a car to a plane to a boat to a hike to our amazing AirBnB in Capri. Our host was a Polish expat who had lived on the island for decades. Capri was absolutely gorgeous. We spent our 24 hours there taking in the natural beauty, enjoying delicious Italian food and gelato, and reading at one of the oldest beach clubs in Italy.",
+                    "country": "Italy",
+                    "abbreviatedCountry": "Italy",
+                    "lat": 40.5532,
+                    "lon": 14.2222,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2022-08-05",
+                    "dateEnd": "2022-08-06"
+                },
+                {
+                    "name": "Naples",
+                    "isIntermediateStop": true,
+                    "lat": 40.8518,
+                    "lon": 14.2681,
+                    "showMarker": true,
+                    "offset": -3
+                },
+                {
+                    "name": "Zurich",
+                    "isIntermediateStop": true,
+                    "lat": 47.3769,
+                    "lon": 8.5417,
+                    "showMarker": false
+                },
+                {
+                    "name": "Lisbon",
+                    "isIntermediateStop": true,
+                    "lat": 38.7223,
+                    "lon": -9.1393,
+                    "showMarker": true
+                },
+                {
+                    "name": "Burgau",
+                    "lat": 37.075039,
+                    "lon": -8.775202,
+                    "isIntermediateStop": true,
+                    "showMarker": true,
+                    "offset": 6
+                },
+                {
+                    "name": "Algarve",
+                    "header": "Four Days in the Algarve",
+                    "description": "The Algarve was picturesque and full of quality beach time. We stayed in the small town of Burgau, which was an amazing home base for our stay. On August 8, we drove to Tavira, close to the border of Spain, and strolled through markets and ate lunch in a private club. On our way back westward to Burgau, we stopped at Praia das Salamitras, a secluded beach with a slightly treacherous climb to get to it.\nOn the 9th, we spent the day in Lagos and the surrounding beaches, driving all the way out to the most southwestern point in mainland Europe to round out the day. On our last full day in the region--the 10th--we kayaked through the caves of Benagil and spent the rest of the afternoon at the Praia do Carvalho. These four days were packed with sun, sand, and delicious Portuguese food. (We also saw Bella Montanaro).",
+                    "country": "Portugal",
+                    "abbreviatedCountry": "Portugal",
+                    "lat": 37.075039,
+                    "lon": -8.775202,
+                    "showMarker": false,
+                    "offset": 6,
+                    "dateStart": "2022-08-07",
+                    "dateEnd": "2022-08-10"
+                },
+                {
+                    "name": "Tavira",
+                    "lat": 37.1336,
+                    "lon": -7.6430,
+                    "isIntermediateStop": true,
+                    "showMarker": true,
+                    "offset": 6
+                },
+                {
+                    "name": "Burgau",
+                    "lat": 37.075039,
+                    "lon": -8.775202,
+                    "isIntermediateStop": true,
+                    "showMarker": false,
+                    "offset": 6
+                },
+                {
+                    "name": "Lagos",
+                    "lat": 37.1028,
+                    "lon": -8.6730,
+                    "isIntermediateStop": true,
+                    "showMarker": false,
+                    "offset": 6
+                },
+                {
+                    "name": "Burgau",
+                    "lat": 37.075039,
+                    "lon": -8.775202,
+                    "isIntermediateStop": true,
+                    "showMarker": false,
+                    "offset": 6
+                },
+                {
+                    "name": "Benagil",
+                    "lat": 37.0872,
+                    "lon": -8.4277,
+                    "isIntermediateStop": true,
+                    "showMarker": false,
+                    "offset": -2
+                },
+                {
+                    "name": "Burgau",
+                    "lat": 37.075039,
+                    "lon": -8.775202,
+                    "isIntermediateStop": true,
+                    "showMarker": false,
+                    "offset": 6
+                },
+                {
+                    "name": "Lisbon",
+                    "header": "Journey's End in Lisboa",
+                    "description": "Lisbon was absolutely incredible. We arrived at The Ivens, where we were greeted with free luxury bottles of water and a surprise in our hotel room for our \"anniversary.\"We spent our first day strolling through many sights of Baixa de Lisboa and Barro Alto. On the 11th, we went to the Azulejos and Gulbenkian museums before ubering to the Torre de Belem and the birthplace of the Pasteis. The 12th--our last full day--was spent in Sintra (beautiful!) before celebrating Fran's birthday dinner at the Antikuario Cafe. Delicious food and top tier service. Lisbon was AMAZING.",
+                    "country": "Portugal",
+                    "abbreviatedCountry": "Portugal",
+                    "lat": 38.7223,
+                    "lon": -9.1393,
+                    "showMarker": false,
+                    "offset": 6,
+                    "dateStart": "2022-08-10",
+                    "dateEnd": "2022-08-13"
+                },
+                {
+                    "name": "Boston",
+                    "header": "Return Home",
+                    "description": "One last breakfast in Lisbon before flying home. :( An amazing trip.",
+                    "country": "United States of America",
+                    "abbreviatedCountry": "USA",
+                    "lat": 42.3656,
+                    "lon": -71.0098,
+                    "showMarker": true,
+                    "dateStart": "2022-08-13",
+                    "dateEnd": "2022-08-13"
+                }
+            ]
         }
     ]
 }

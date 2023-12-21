@@ -55,7 +55,7 @@
 .trip-description-container ol {
     list-style: none;
     counter-reset: cupcake;
-    padding-left: 32px;
+    padding: 5px;
 
     /* text-align: center; */
 }
@@ -64,7 +64,7 @@
     counter-increment: cupcake;
 
     color: #15171c;
-    font-size: 25pt;
+    font-size: 16pt;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -79,25 +79,26 @@
 
 .destination-title {
     font-weight: bold;
-    font-size: 25pt;
+    font-size: 16pt;
     color: #15171c;
 }
 
 .destination-header {
     font-weight: bold;
-    font-size: 14pt;
+    font-size: 16pt;
     font-style: italic;
-    text-align: center; 
+    float: right;
     color: #15171c;
 }
 
 .destination-dates {
     font-style: italic;
     font-weight: bold;
-    text-align: center;
+    text-align: right;
     color: #9792a6;
 }
 
 .destination-description {
-    text-align: center;
+    text-align: justify;
+    font-size: 10pt;
 }

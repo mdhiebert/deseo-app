@@ -1,5 +1,4 @@
 import { Outlet, Link } from "react-router-dom";
-import logo from './logo.png';
 import './Layout.css';
 import { Avatar } from "@mui/material";
 
@@ -19,7 +18,7 @@ const Layout = () => {
   return (
     <div>
       <header className="app-header">
-        <a href="/"><img src={logo} className="header-logo"></img></a>
+        <a href="/"><img src="logo/png/logo-no-background.png" className="header-logo"></img></a>
         <nav className="header-content">
           <Link className="header-link" to="/wishes">Wishes</Link>
           <Link className="header-link" to="/travel">Travel</Link>

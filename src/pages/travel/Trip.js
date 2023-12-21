@@ -139,7 +139,7 @@ class Trip extends React.Component {
                     {
                         this.props.tripData.destinations.slice(0, 1).map(
                             d => <div> <FlightTakeoffOutlinedIcon sx={{fontSize: 40}}/> &nbsp; <span className="destination-title">{d.name}, {d.abbreviatedCountry ? d.abbreviatedCountry : d.country}</span>
-                                    <div className="destination-header">{d.header}</div>
+                                    <span className="destination-header">{d.header}</span>
                                     <div className="destination-dates">
                                         {
                                             d.dateStart === d.dateEnd ? 
@@ -153,9 +153,9 @@ class Trip extends React.Component {
                                 </div>
                         )
                     }{
-                        this.props.tripData.destinations.slice(1, this.props.tripData.destinations.length - 1).map(
+                        this.props.tripData.destinations.slice(1, this.props.tripData.destinations.length - 1).filter(d => !d.isIntermediateStop).map(
                             d => <li key={d.name + d.dateStart + "-" + d.dateEnd}> <span className="destination-title">{d.name}, {d.abbreviatedCountry ? d.abbreviatedCountry : d.country}</span>
-                                    <div className="destination-header">{d.header}</div>
+                                    <span className="destination-header">{d.header}</span>
                                     <div className="destination-dates">
                                         {
                                             d.dateStart === d.dateEnd ? 
@@ -171,7 +171,7 @@ class Trip extends React.Component {
                     }{
                         this.props.tripData.destinations.slice(this.props.tripData.destinations.length - 1, this.props.tripData.destinations.length).map(
                             d => <div> <FlightLandOutlinedIcon sx={{fontSize: 40}}/> &nbsp; <span className="destination-title">{d.name}, {d.abbreviatedCountry ? d.abbreviatedCountry : d.country}</span>
-                                    <div className="destination-header">{d.header}</div>
+                                    <span className="destination-header">{d.header}</span>
                                     <div className="destination-dates">
                                         {
                                             d.dateStart === d.dateEnd ? 

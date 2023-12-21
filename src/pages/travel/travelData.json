@@ -8,7 +8,7 @@
             "flippedLayout": false,
             "tripType": "B",
             "geographyData": {
-                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
                 "width": 400,
                 "height": 400,
                 "projectionConfig": {
@@ -169,7 +169,7 @@
             "flippedLayout": true,
             "tripType": "B",
             "geographyData": {
-                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
                 "width": 200,
                 "height": 200,
                 "projectionConfig": {
@@ -279,7 +279,7 @@
             "flippedLayout": false,
             "tripType": "B",
             "geographyData": {
-                "geoUrl": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
                 "width": 200,
                 "height": 200,
                 "projectionConfig": {
@@ -420,6 +420,378 @@
                 }
             ]
         
+        },
+        {
+            "title": "Japan + Korea",
+            "dateStart": "???",
+            "dateEnd": "???",
+            "description": "Back to East Asia!!!",
+            "flippedLayout": true,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
+                "width": 200,
+                "height": 200,
+                "projectionConfig": {
+                    "rotate": [-145, -35, 0],
+                    "center": [-10,0],
+                    "scale": 700
+                }
+            },
+            "countriesVisited": [
+                "Japan",
+                "South Korea"
+              ],
+            "destinations": [
+                {
+                  "name": "Atlanta",
+                  "description": "Departure city. Explore the city before heading to the airport for your journey.",
+                  "country": "United States",
+                  "abbreviatedCountry": "USA",
+                  "lat": 33.7490,
+                  "lon": -84.3880,
+                  "showMarker": true,
+                  "dateStart": "2024-07-20",
+                  "dateEnd": "2024-07-20"
+                },
+                {
+                  "name": "Tokyo",
+                  "description": "Explore Shibuya, Meiji Shrine, and Yoyogi Park.\nVisit Odaiba, teamLab Borderless, Palette Town, and Gundam Base Tokyo.\nHead to Asakusa for Senso-ji Temple and Nakamise Shopping Street.\nExplore Ueno Park and Ueno Zoo.\nExperience Tokyo's nightlife in Shinjuku or Roppongi.",
+                  "country": "Japan",
+                  "abbreviatedCountry": "JPN",
+                  "lat": 35.6895,
+                  "lon": 139.6917,
+                  "showMarker": true,
+                  "dateStart": "2024-07-21",
+                  "dateEnd": "2024-07-24"
+                },
+                {
+                  "name": "Mount Fuji",
+                  "description": "Take a day trip to Mount Fuji.\nVisit the 5th Station, take a cruise on Lake Ashi, and explore Hakone.\nRelax in an onsen.",
+                  "country": "Japan",
+                  "abbreviatedCountry": "JPN",
+                  "lat": 35.3606,
+                  "lon": 138.7278,
+                  "showMarker": true,
+                  "offset": 6,
+                  "dateStart": "2024-07-25",
+                  "dateEnd": "2024-07-25"
+                },
+                {
+                  "name": "Nara",
+                  "description": "Take a day trip to Nara.\nVisit Nara Deer Park, Todai-ji Temple, and stroll through Nara Park.",
+                  "country": "Japan",
+                  "abbreviatedCountry": "JPN",
+                  "lat": 34.6851,
+                  "lon": 135.8048,
+                  "showMarker": true,
+                  "offset": 6,
+                  "dateStart": "2024-07-26",
+                  "dateEnd": "2024-07-26"
+                },
+                {
+                  "name": "Kyoto",
+                  "description": "Explore Fushimi Inari Shrine, Gion district, Kinkaku-ji, Ryoan-ji, Arashiyama, Iwatayama Monkey Park, Kiyomizu-dera, and Higashiyama District.",
+                  "country": "Japan",
+                  "abbreviatedCountry": "JPN",
+                  "lat": 35.0116,
+                  "lon": 135.7681,
+                  "showMarker": true,
+                  "dateStart": "2024-07-27",
+                  "dateEnd": "2024-07-29"
+                },
+                {
+                  "name": "Seoul",
+                  "description": "Visit Gyeongbokgung Palace, the National Folk Museum, Insadong for traditional Korean crafts and street food.\nExplore Bukchon Hanok Village, N Seoul Tower, and Myeongdong for shopping.\nTake a day trip to the DMZ, visit the War Memorial of Korea, and explore Dongdaemun Design Plaza or Dongdaemun Night Market.",
+                  "country": "South Korea",
+                  "abbreviatedCountry": "KOR",
+                  "lat": 37.5665,
+                  "lon": 126.9780,
+                  "showMarker": true,
+                  "dateStart": "2024-07-30",
+                  "dateEnd": "2024-08-01"
+                },
+                {
+                  "name": "Atlanta",
+                  "description": "Arrival city. Return to Atlanta and conclude your journey.",
+                  "country": "United States",
+                  "abbreviatedCountry": "USA",
+                  "lat": 33.7490,
+                  "lon": -84.3880,
+                  "showMarker": true,
+                  "dateStart": "2024-08-02",
+                  "dateEnd": "2024-08-02"
+                }
+              ]
+              
+              
+        
+        },
+        {
+            "title": "Middle Eastern Adventure",
+            "dateStart": "???",
+            "dateEnd": "???",
+            "description": "The Middle East is a region that has always fascinated me. I'd love to explore the history and culture of the region.",
+            "flippedLayout": false,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
+                "width": 400,
+                "height": 400,
+                "projectionConfig": {
+                    "rotate": [-44, -20, 0],
+                    "center": [0, 0],
+                    "scale": 600
+                }
+            },
+            "countriesVisited": [
+                "Egypt",
+                "Jordan",
+                "Oman",
+                "United Arab Emirates"
+              ],
+            "destinations": [
+                {
+                  "name": "Atlanta",
+                  "description": "Departure city. Explore the city before heading to the airport for your journey.",
+                  "country": "United States",
+                  "abbreviatedCountry": "USA",
+                  "lat": 33.7490,
+                  "lon": -84.3880,
+                  "showMarker": true,
+                  "dateStart": "2024-08-01",
+                  "dateEnd": "2024-08-01"
+                },
+                {
+                  "name": "Cairo",
+                  "description": "Visit the Giza Pyramids, Sphinx, and the Egyptian Museum. Explore the historic Khan El Khalili Bazaar and take a Nile River cruise.",
+                  "country": "Egypt",
+                  "abbreviatedCountry": "EGY",
+                  "lat": 30.0444,
+                  "lon": 31.2357,
+                  "showMarker": true,
+                  "dateStart": "2024-08-02",
+                  "dateEnd": "2024-08-04"
+                },
+                {
+                    "name": "Amman",
+                    "description": "Explore the capital city of Jordan. Visit the Amman Citadel, the Roman Theater, and the bustling markets. Enjoy authentic Jordanian cuisine.",
+                    "country": "Jordan",
+                    "abbreviatedCountry": "JOR",
+                    "lat": 31.9497,
+                    "lon": 35.9320,
+                    "showMarker": true,
+                    "dateStart": "2024-08-05",
+                    "dateEnd": "2024-08-07"
+                },
+                {
+                  "name": "Petra",
+                  "description": "Discover the archaeological wonders of Petra, including the famous Al-Khazneh (The Treasury) and the Monastery. Explore the ancient city carved into rose-red cliffs.",
+                  "country": "Jordan",
+                  "abbreviatedCountry": "JOR",
+                  "lat": 30.3285,
+                  "lon": 35.4444,
+                  "showMarker": true,
+                  "dateStart": "2024-08-08",
+                  "dateEnd": "2024-08-08"
+                },
+                {
+                    "name": "Aqaba",
+                    "description": "Relax by the Red Sea in Aqaba. Enjoy water activities, explore the marine life through snorkeling or diving, and unwind on the beaches.",
+                    "country": "Jordan",
+                    "abbreviatedCountry": "JOR",
+                    "lat": 29.5327,
+                    "lon": 35.0066,
+                    "showMarker": true,
+                    "dateStart": "2024-08-09",
+                    "dateEnd": "2024-08-10"
+                },
+                {
+                  "name": "Wadi Rum",
+                  "description": "Explore the stunning desert landscape of Wadi Rum. Enjoy a jeep tour, go stargazing, and experience the unique Bedouin culture.",
+                  "country": "Jordan",
+                  "abbreviatedCountry": "JOR",
+                  "lat": 29.5707,
+                  "lon": 35.4086,
+                  "showMarker": false,
+                  "offset": 6,
+                  "dateStart": "2024-08-10",
+                  "dateEnd": "2024-08-11"
+                },
+                {
+                  "name": "Amman",
+                  "description": "Return to Amman for a final day of exploration before departing for Abu Dhabi.",
+                  "country": "Jordan",
+                  "abbreviatedCountry": "JOR",
+                  "lat": 31.9497,
+                  "lon": 35.9320,
+                  "showMarker": true,
+                  "dateStart": "2024-08-12",
+                  "dateEnd": "2024-08-13"
+                },
+                {
+                    "name": "Abu Dhabi",
+                    "description": "Visit the Sheikh Zayed Grand Mosque, the Louvre Abu Dhabi, and the Emirates Palace. Explore the Corniche and enjoy the futuristic Yas Island.",
+                    "country": "United Arab Emirates",
+                    "abbreviatedCountry": "ARE",
+                    "lat": 24.4539,
+                    "lon": 54.3773,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2024-08-13",
+                    "dateEnd": "2024-08-15"
+                },
+                {
+                  "name": "Dubai",
+                  "description": "Explore the iconic Burj Khalifa, Dubai Mall, and the Dubai Fountain. Visit the historic Al Fahidi District, take a dhow cruise, and experience the vibrant nightlife.",
+                  "country": "United Arab Emirates",
+                  "abbreviatedCountry": "ARE",
+                  "lat": 25.2769,
+                  "lon": 55.2962,
+                  "showMarker": true,
+                  "dateStart": "2024-08-16",
+                  "dateEnd": "2024-08-19"
+                },
+                {
+                    "name": "Fujairah",
+                    "description": "Relax on the beaches of Fujairah and explore the historical Fujairah Fort. Enjoy water activities and the serene atmosphere.",
+                    "country": "United Arab Emirates",
+                    "abbreviatedCountry": "ARE",
+                    "lat": 25.1289,
+                    "lon": 56.3249,
+                    "showMarker": true,
+                    "offset": 6,
+                    "dateStart": "2024-08-20",
+                    "dateEnd": "2024-08-20"
+                  },
+                {
+                    "name": "Muscat",
+                    "description": "Discover the beauty of Muscat. Visit the Sultan Qaboos Grand Mosque, the Royal Opera House, and the Mutrah Souq. Explore the nearby scenic coastline and beaches.",
+                    "country": "Oman",
+                    "abbreviatedCountry": "OMN",
+                    "lat": 23.5859,
+                    "lon": 58.4059,
+                    "showMarker": true,
+                    "dateStart": "2024-08-21",
+                    "dateEnd": "2024-08-23"
+                },
+                {
+                  "name": "Atlanta",
+                  "description": "Arrival city. Return to Atlanta and conclude your journey.",
+                  "country": "United States",
+                  "abbreviatedCountry": "USA",
+                  "lat": 33.7490,
+                  "lon": -84.3880,
+                  "showMarker": true,
+                  "dateStart": "2024-08-23",
+                  "dateEnd": "2024-08-23"
+                }
+              ]
+              
+        },
+        {
+            "title": "Indonesia",
+            "dateStart": "August 1, 2024",
+            "dateEnd": "August 23, 2024",
+            "description": "Maybe Indonesia??",
+            "flippedLayout": true,
+            "tripType": "B",
+            "geographyData": {
+                "geoUrl": "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json",
+                "width": 400,
+                "height": 400,
+                "projectionConfig": {
+                    "rotate": [-110, 10, 0],
+                    "center": [0, 0],
+                    "scale": 600
+                }
+            },
+            "countriesVisited": [
+                "Indonesia"
+              ],
+            "destinations": [
+                {
+                  "name": "Atlanta",
+                  "description": "Departure city. Explore the city before heading to the airport for your journey.",
+                  "country": "United States",
+                  "abbreviatedCountry": "USA",
+                  "lat": 33.7490,
+                  "lon": -84.3880,
+                  "showMarker": true,
+                  "dateStart": "2024-08-01",
+                  "dateEnd": "2024-08-01"
+                },
+                {
+                  "name": "Jakarta",
+                  "description": "Explore the vibrant capital of Indonesia. Visit historical sites like the National Monument, explore museums, and enjoy the city's culinary scene.",
+                  "country": "Indonesia",
+                  "abbreviatedCountry": "IDN",
+                  "lat": -6.2088,
+                  "lon": 106.8456,
+                  "showMarker": true,
+                  "dateStart": "2024-08-02",
+                  "dateEnd": "2024-08-04"
+                },
+                {
+                  "name": "Yogyakarta",
+                  "description": "Discover the cultural heart of Java. Visit Borobudur, the largest Buddhist temple, explore Prambanan, and experience Javanese arts and traditions.",
+                  "country": "Indonesia",
+                  "abbreviatedCountry": "IDN",
+                  "lat": -7.7956,
+                  "lon": 110.3695,
+                  "showMarker": true,
+                  "dateStart": "2024-08-05",
+                  "dateEnd": "2024-08-07"
+                },
+                {
+                  "name": "Mount Bromo",
+                  "description": "Witness the sunrise over Mount Bromo. Explore the volcanic landscapes and experience the unique Tenggerese culture.",
+                  "country": "Indonesia",
+                  "abbreviatedCountry": "IDN",
+                  "lat": -7.9425,
+                  "lon": 112.9531,
+                  "showMarker": true,
+                  "dateStart": "2024-08-08",
+                  "dateEnd": "2024-08-09"
+                },
+                {
+                  "name": "Bali",
+                  "description": "Arrive in Bali, the 'Island of the Gods.' Relax on beautiful beaches, explore Ubud's cultural richness, and visit iconic temples like Tanah Lot.",
+                  "country": "Indonesia",
+                  "abbreviatedCountry": "IDN",
+                  "lat": -8.4095,
+                  "lon": 115.1889,
+                  "showMarker": true,
+                  "offset": 6,
+                  "dateStart": "2024-08-10",
+                  "dateEnd": "2024-08-13"
+                },
+                {
+                  "name": "Ubud",
+                  "description": "Return to Ubud for a final day of relaxation and exploration. Visit local markets, enjoy spa treatments, and savor Balinese cuisine.",
+                  "country": "Indonesia",
+                  "abbreviatedCountry": "IDN",
+                  "lat": -8.5197,
+                  "lon": 115.2632,
+                  "showMarker": false,
+                  "dateStart": "2024-08-14",
+                  "dateEnd": "2024-08-14"
+                },
+                {
+                  "name": "Atlanta",
+                  "description": "Arrival city. Return to Atlanta and conclude your journey.",
+                  "country": "United States",
+                  "abbreviatedCountry": "USA",
+                  "lat": 33.7490,
+                  "lon": -84.3880,
+                  "showMarker": true,
+                  "dateStart": "2024-08-15",
+                  "dateEnd": "2024-08-15"
+                }
+              ]
+              
+                            
+              
         }
     ]
 }
